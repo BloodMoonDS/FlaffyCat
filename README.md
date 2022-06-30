@@ -1,6 +1,7 @@
 # FlaffyCat
 
-[![Build status](https://ci.appveyor.com/api/projects/status/3o04t7ebch9kc1b4?svg=true)](https://ci.appveyor.com/project/BloodMoonDS/flaffycat)
+[![Build status](https://ci.appveyor.com/api/projects/status/3o04t7ebch9kc1b4/branch/master?svg=true)](https://ci.appveyor.com/project/BloodMoonDS/flaffycat/branch/master)
+
 
 A Very-Optimized Open Game Library That allows you to Render Too fast
 
